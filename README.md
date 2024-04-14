@@ -1,4 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+<h3>A passionate developer from Germany</h3>
+
+- 🌱 I’m currently learning rust and c++.
+- 🔭 I am currently looking to study computer science.
+
+<h3>Languages I am familiar with: </h3>
+<a href="https://www.python.org">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg", alt="Python", width=50, height=50, onclick="return false;">
+</a>
+<a href="https://de.wikipedia.org/wiki/C_(Programmiersprache)">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg", alt="Python", width=50, height=50, onclick="return false;">
+</a>
 
 <!--
 **oskarmeyenburg/oskarmeyenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
