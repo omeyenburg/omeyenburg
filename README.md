@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Rust & OpenGL<br>
 ⚡ I love learning new things and challenging myself<br>
 
-<h3>Languages and Tools</h3>
+<h3>Preferred Languages and Tools</h3>
 <a href="https://www.python.org">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg", alt="Python", width=50, height=50, onclick="return false;">
 </a>
