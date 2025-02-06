@@ -1,5 +1,5 @@
 <!--
-**oskarmeyenburg/oskarmeyenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**omeyenburg/omeyenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 </a><br><br>
 -->
 
-<h1 align="center">Hi there, Oskar here 👋</h1>
+# Hi there, Oskar here 👋
 
 <p>
-    📚 I'm a computer science student<br />
-    🌱 I’m currently learning Rust & OpenGL<br />
+    📚 Bachelor student at University of Potsdam<br />
+    🌱 Currently learning Rust & OpenGL<br />
     ⚡ I love learning new things and challenging myself<br />
 </p>
 <a href="https://github.com/omeyenburg">
