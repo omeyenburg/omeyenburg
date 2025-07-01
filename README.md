@@ -1,18 +1,18 @@
 # Hi there, Oskar here 👋
 
+<a href="https://github.com/omeyenburg">
+    <img
+        align="right"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeyenburg&theme=tokyonight&line_height=40&hide=css&layout=compact&langs_count=10"
+    />
+</a>
+
 <p>
     📚 Bachelor student at University of Potsdam<br/>
     🌱 Currently learning Rust & OpenGL<br/>
     ⚡ I love learning new things and challenging myself<br/>
     🚪 Unable to quit vim<br/>
 </p>
-
-<a href="https://github.com/omeyenburg">
-    <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeyenburg&theme=tokyonight&line_height=40&hide=css&layout=compact&langs_count=10"
-    />
-</a>
 
 <h3>Things i pretend to know</h3>
 <a href="https://www.python.org">
