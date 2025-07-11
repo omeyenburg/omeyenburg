@@ -1,12 +1,4 @@
-# Hi there, Oskar here 👋
-
-
-<p>
-    📚 Bachelor student at University of Potsdam<br/>
-    🌱 Currently learning Rust & OpenGL<br/>
-    ⚡ I love learning new things and challenging myself<br/>
-    🚪 Unable to quit vim<br/>
-</p>
+# Hello World, Oskar here 👋
 
 <a href="https://github.com/omeyenburg">
     <img
@@ -15,9 +7,14 @@
     />
 </a>
 
-<h3>Things i pretend to know</h3>
+📚 Bachelor student at University of Potsdam  
+🌱 Currently learning Rust & OpenGL  
+⚡ I love learning new things and challenging myself  
+🚪 Unable to quit vim
+
+<h3>Things i pretend to know quite well</h3>
 <table>
-  <tr>
+  <tr align="center">
     <td>
       <a href="https://www.python.org">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50">
@@ -38,6 +35,17 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="Neovim" width="50" height="50">
       </a>
     </td>
+    <td>
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" align="center" alt="Typescript" width="50" height="50">
+      </a>
+    </td>
   </tr>
 </table>
-
+<!--
+Maybe add:
+- langs: nix, glsl, lua, java
+- packages: numpy, pygame
+- sometime soon: rust, opengl
+- if i'm bald: linux
+-->
