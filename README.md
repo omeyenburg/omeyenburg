@@ -7,12 +7,13 @@
     />
 </a>
 
-📚 Bachelor student at University of Potsdam  
+🎓 Bachelor student at University of Potsdam  
+📚 Math enthusiast  
 🌱 Currently learning Rust & OpenGL  
 ⚡ I love learning new things and challenging myself  
 🚪 Unable to quit vim
 
-<h3>Things i pretend to know quite well</h3>
+<h3>Things I pretend to know quite well</h3>
 <table>
   <tr align="center">
     <td>
@@ -21,7 +22,7 @@
       </a>
     </td>
     <td>
-      <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+      <a href="https://www.c-language.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50">
       </a>
     </td>
