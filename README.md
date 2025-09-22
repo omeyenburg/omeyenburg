@@ -1,11 +1,13 @@
-# Hello World, Oskar here 👋
+# Hi, I'm Oskar 👋
 
+<!--
 <a href="https://github.com/omeyenburg">
     <img
         align="right"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeyenburg&theme=tokyonight&line_height=40&hide=css&layout=compact&langs_count=10"
     />
 </a>
+-->
 
 🎓 Bachelor student at University of Potsdam  
 📚 Math enthusiast  
@@ -13,6 +15,7 @@
 ⚡ I love learning new things and challenging myself  
 🚪 Unable to quit vim
 
+<!--
 <h3>Things I pretend to know quite well</h3>
 <table>
   <tr align="center">
@@ -43,10 +46,11 @@
     </td>
   </tr>
 </table>
+-->
+
 <!--
 Maybe add:
 - langs: nix, glsl, lua, java
 - packages: numpy, pygame
-- sometime soon: rust, opengl
 - if i'm bald: linux
 -->
