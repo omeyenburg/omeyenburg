@@ -11,7 +11,7 @@
 
 🎓 Bachelor student at University of Potsdam  
 📚 Math enthusiast  
-🌱 Currently learning Rust & OpenGL  
+🌱 Currently learning C++ & OpenGL  
 ⚡ I love learning new things and challenging myself  
 🚪 Unable to quit vim
 
