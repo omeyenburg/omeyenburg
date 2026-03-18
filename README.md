@@ -9,11 +9,10 @@
 </a>
 -->
 
-🎓 Bachelor student at University of Potsdam  
-📚 Math enthusiast  
-🌱 Currently learning C++ & OpenGL  
-⚡ I love learning new things and challenging myself  
-🚪 Unable to quit vim
+🎓 B.Sc. Computer Science @ University of Potsdam  
+🔧 Interested in systems programming & developer tools  
+🌱 Currently learning C++ & Go  
+🚪 Unable to quit Vim
 
 <!--
 <h3>Things I pretend to know quite well</h3>
